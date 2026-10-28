@@ -1,4 +1,4 @@
-# Ratnesh Sharma
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ratnesh Sharma
 
 ### Full-Stack Solution Architect | Engineering Team Lead | Digital Product Creator
 **19+ Years Architecting High-Performance Web Applications & Scalable Business Solutions**
@@ -121,7 +121,7 @@ With **19+ years of hands-on software engineering and technical leadership**, ev
 
 ## 📊 Engineering & Activity Snapshot
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratneshrsharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratneshrsharma&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshrsharma&layout=compact&theme=tokyonight&hide_border=true)
 
